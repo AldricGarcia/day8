@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function()
         animation: "scale",
         hideOnClick: false,
         interactive: true,
-    });
+    })[0];
 
     let colorInterval = null;
 
